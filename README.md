@@ -1,5 +1,6 @@
 # CodeAlpha_CGPA-Calculator
-# 🎓 CGPA Calculator in C++
+# 🎓 CGPA Calculator (C++)
+      
 
 A simple and efficient CGPA (Cumulative Grade Point Average) Calculator built using C++. This project allows users to input grades for multiple subjects and calculates the CGPA based on the entered credit hours and grade points.
 
